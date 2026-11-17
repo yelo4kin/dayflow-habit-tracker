@@ -5,7 +5,7 @@ package.domain = org.example
 source.dir = .
 source.include_exts = py,kv,png,jpg,atlas,txt
 version = 2.0.0
-requirements = python3,kivy==2.3.0,plyer,pyjnius
+requirements = python3,kivy==2.3.2,plyer,pyjnius
 orientation = portrait
 fullscreen = 0
 android.permissions = VIBRATE,POST_NOTIFICATIONS,RECORD_AUDIO
