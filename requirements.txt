@@ -1,0 +1,1 @@
+kivy==2.3.0\nplyer\npyjnius; platform_system=="Android"\n
