@@ -11,7 +11,7 @@ fullscreen = 0
 android.permissions = VIBRATE,POST_NOTIFICATIONS,RECORD_AUDIO
 android.api = 35
 android.accept_sdk_license = True
-android.minapi = 23
+android.minapi = 24
 android.archs = arm64-v8a, armeabi-v7a
 p4a.bootstrap = sdl2
 
